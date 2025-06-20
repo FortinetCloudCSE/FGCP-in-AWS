@@ -78,7 +78,7 @@ Address: 10.0.40.106
 
 - 5. Now we can test opening up a browser to the Cluster IP using HTTP to reach the web servers being served by the internal ALB.
 
-![](image-uc1-9a.png)
+![](image-uc1-9.png)
 
 ### VIP Caveats
 
